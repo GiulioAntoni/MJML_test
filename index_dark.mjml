@@ -1,0 +1,83 @@
+<mjml>
+    <mj-body font-family="Arial" background-color="#000" color="#fff">
+    <mj-section>
+    <mj-column width="100%">
+    <mj-image src="/assets/Group4.png" href="https://google.com" padding-bottom="10px" padding-left="1px" padding-right="1px" padding-top="0px"/>      
+        <mj-image src="/assets/Mask group.png" alt="Mask_group" align="center" padding-top="0px" padding-bottom="5px"/>
+    </mj-column> 
+    <mj-column width="50%">
+        <mj-text color="#fff" font-family="Arial" align="center" font-weight="700" padding="30px 40px " font-size="25px"line-height="30px">
+           DISCOVER OUR NEW PLAYLISTS
+        </mj-text>
+    </mj-column> 
+    <mj-column width="68%">
+    <mj-text color="#fff" font-family="Arial" align="center" line-height="18px" font-size="15px" font-weight="450" padding="1px 20px">
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </mj-text>        
+    </mj-column>     
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="/assets/Mask group-2.png"></mj-image>
+      </mj-column>
+      <mj-column >
+        <mj-text color="#fff" font-weight="bold" font-size="20px" font-family="Arial" padding-bottom="0px" padding-left="1px" padding-right="40px" padding-top="20px" line-height="30px">LIVE PERFORMANCE: UNPLUGGED</mj-text>
+        <mj-text color="#fff" align="left" font-size="15px" color="#000" font-family="Arial" padding-bottom="0px" padding-left="1px" padding-right="40px" padding-top="15px" line-height="18px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</mj-text>
+        <mj-text color="#fff" align="left" font-size="15px" color="#000" font-family="Arial" padding-bottom="10px" padding-left="1px" padding-right="40px" padding-top="15px" line-height="18px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </mj-text>
+        <mj-image border="none" align="left" height="30px" width="150px" padding="25px 1px" src="/assets/Group 2.png" href="https://google.com"/>
+      </mj-column>
+    </mj-section>
+    <mj-divider  border-width="1px" border-color="#616161" width="70%"></mj-divider>
+    <mj-section>
+    <mj-column width="100%">
+    <mj-text color="#fff" font-weight="bold" font-size="20px" font-family="Arial" align="center">NEW RELEASES</mj-text>     
+    </mj-column>
+        <mj-column width="33%">
+        <mj-image href="https://google.com" width="165px" src="/assets/Mask group-3.png"></mj-image>
+        <mj-text color="#fff" font-weight="bold"  font-family="Arial" align="center" font-size="16px" color="#000"><strong>EDM</strong></mj-text>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-image href="https://google.com" width="165px" src="/assets/Mask group-4.png"></mj-image>
+        <mj-text color="#fff" font-weight="bold" font-family="Arial" align="center" font-size="16px" color="#000"><strong>ALTERNATIVE</strong></mj-text>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-image href="https://google.com" width="165px" src="/assets/Mask group-5.png"></mj-image>
+        <mj-text color="#fff" font-weight="bold" font-family="Arial" align="center" font-size="16px" color="#000"><strong>JAZZ</strong></mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text color="#fff" font-family="Arial" align="center" font-size="10px" color="#000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</mj-text>
+      </mj-column>
+    </mj-section>
+        <mj-divider border-width="1px" border-color="#616161" width="70%"></mj-divider>
+
+   <mj-section>
+      <mj-column>
+        <mj-text color="#fff" font-weight="bold" font-size="20px" font-family="Arial" padding-bottom="5px" padding-left="1px" padding-right="40px" padding-top="20px" line-height="30px">ARTIST INTERVIEW</mj-text>
+        <mj-text color="#fff" align="left" font-size="15px" color="#000" font-family="Arial" padding-bottom="5px" padding-left="1px" padding-right="45px" padding-top="15px" line-height="18px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</mj-text>
+         <mj-image border="none" align="left" height="30px" width="150px" padding="25px 1px" src="/assets/Group 3.png" href="https://google.com"/>
+      </mj-column>
+      <mj-column >
+        <mj-image src="/assets/Mask group-1.png"></mj-image>
+        <mj-text color="#fff" font-family="Arial" align="left" font-size="7px" color="#000" padding-left="25px" padding="5px 1px">Ed do eiusmod tempor incididunt.</mj-text>
+    </mj-column>
+    </mj-section>
+     <mj-section background-color="#000000" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-bottom="40px">
+     <mj-column width="100%">
+        <mj-image href="https://google.com" src="/assets/Group1.png"></mj-image>
+     </mj-column>
+      <mj-column>
+         <mj-image border="none" align="right" height="30px" width="30px" padding="10px 14px" src="/assets/ant-design_facebook-filled.png" href="https://facebook.com"/>
+      </mj-column>
+      <mj-column>
+         <mj-image border="none" align="left" height="30px" width="30px" padding="10px 14px" src="/assets/akar-icons_instagram-fill.png" href="https://instagram.com"/>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text color="#fff" align="center" font-family="Arial" font-size="10px" line-height="22px" padding-bottom="0px" padding-top="5px" padding="10px 25px">
+          <p style="line-height: 16px; text-align: center; margin: 10px 0;font-size:12px;color:#ffffff;font-family:Arial">&#169; 2007-2022 SoundList &bull; All rights reserved<br /><span style="color:#ffffff;font-family:Arial">Unsubscribe &bull; Manage Notifications &bull; Support &bull; Terms of Use &bull; Imprint &bull; Privacy Policy</span>
+          <br /><span style="color:#ffffff;font-family:Arial">Berlin,Germany</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    </mj-body>
+</mjml>
